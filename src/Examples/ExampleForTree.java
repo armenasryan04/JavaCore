@@ -10,7 +10,6 @@ public class ExampleForTree {
             for (int j = 0; j < i * 2 + 1; j++) {
                 System.out.print("*");
             }
-
         }
 
     }

@@ -1,8 +1,7 @@
 package Examples;
 
-public class Example3 { public static void main(String[] args) {
-
-
+public class Example3 {
+    public static void main(String[] args) {
 
     int n;
     int y;

@@ -27,7 +27,6 @@ public class IfForExample {
         System.out.println(y);
         if (y == x) {
             System.out.println("a=b");
-
         }
         else {
             System.out.println("a havasar che b");
