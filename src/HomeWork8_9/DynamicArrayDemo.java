@@ -18,7 +18,7 @@ public class DynamicArrayDemo {
         System.out.println();
         demo.set(4,21);
         System.out.println(demo.exists(234));
-        System.out.println(demo.getIndexByValue(54534));
+        System.out.println(demo.getIndexByValue(5534));
 
     }
 }
